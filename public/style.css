@@ -1,0 +1,10 @@
+@keyframes blinking {
+    0%{
+        background-color: #ffffff;
+        border: 1px solid #871924;
+    }
+    100%{
+        background-color: yellow;
+        border: 1px solid #6565f2;
+    }
+}
